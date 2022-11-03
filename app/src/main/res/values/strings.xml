@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Content Provider</string>
+    <string name="course_list">Course List</string>
+</resources>
